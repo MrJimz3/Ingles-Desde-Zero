@@ -1,2 +1,2 @@
 # Ingles-Desde-Zero
-aprende ingles sin mucho efuerzo
+Aprende inglés fácil, desde cero y a tu ritmo
