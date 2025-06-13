@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Mi Primera Página</title>
+</head>
+<body>
+  <h1>Hola, soy Jimz</h1>
+  <p>Esta es mi primera página web en GitHub Pages</p>
+
+  <img src="foto.jpg" alt="Mi foto" width="250">
+
+  <p>¡Bienvenido a Inglés Desde Zero!</p>
+</body>
+</html>
